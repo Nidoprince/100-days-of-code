@@ -20,12 +20,11 @@
 **Link(s) to work**: [Calculator App](http://www.example.com)
 -->
 
-### Day 1: June 27, Monday
+### Day 1: June 16, Saturday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Worked on implementing part of my mahjong over discord project.  Specifically calling Kan during your own turn in order to add to a Kong or create a closed Kong.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** I mostly just wanted to get something going today, so I just continued work on something I already had started.  Hoping to start coding new stuff and pushing myself to learn more stuff in later days.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+[Akagi-bot](https://github.com/skylarjhdownes/Akagi-Bot)
