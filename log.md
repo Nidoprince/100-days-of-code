@@ -27,4 +27,4 @@
 **Thoughts** I mostly just wanted to get something going today, so I just continued work on something I already had started.  Hoping to start coding new stuff and pushing myself to learn more stuff in later days.
 
 **Link(s) to work**
-[Akagi-bot](https://github.com/skylarjhdownes/Akagi-Bot)
+-    [Akagi-bot](https://github.com/skylarjhdownes/Akagi-Bot)
