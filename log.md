@@ -28,3 +28,14 @@
 
 **Link(s) to work**
 -    [Akagi-bot](https://github.com/skylarjhdownes/Akagi-Bot)
+
+
+### Day 2: June 17, Sunday
+
+**Today's Progress**: Worked on getting tsumo to work in the mahjong game.  Ended up mostly testing things, but got some good work done.
+
+**Thoughts** Lots of testing today, which needed doing, but resulted in less lines of actual coding.  Started doing some research on what I am thinking about for my next topic.
+
+**Link(s) to work**
+-    [Akagi-bot](https://github.com/skylarjhdownes/Akagi-Bot)
+
