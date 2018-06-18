@@ -39,3 +39,13 @@
 **Link(s) to work**
 -    [Akagi-bot](https://github.com/skylarjhdownes/Akagi-Bot)
 
+
+### Day 3: June 18, Monday
+
+**Today's Progress**: Finished tsumo stuff.  Did the code for going to the next round after a round is finished.  Got dora calculator written.
+
+**Thoughts** Pretty much pure code today.  Lots of different diverse elements figured out.  Did a lot of research during the day about my future project.  Trying to get my head wrapped around the math.
+
+**Link(s) to work**
+-    [Akagi-bot](https://github.com/skylarjhdownes/Akagi-Bot)
+
