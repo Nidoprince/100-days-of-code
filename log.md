@@ -49,3 +49,14 @@
 **Link(s) to work**
 -    [Akagi-bot](https://github.com/skylarjhdownes/Akagi-Bot)
 
+
+
+### Day 4: June 19, Tuesday
+
+**Today's Progress**: Implemented Riichi, and a lot of stuff which was needed for that.  
+
+**Thoughts** Did my coding right after waking up today, instead of right before I went to bed.  Didn't code for as long, but the time felt like it was going by faster.
+
+**Link(s) to work**
+-    [Akagi-bot](https://github.com/skylarjhdownes/Akagi-Bot)
+
