@@ -60,3 +60,14 @@
 **Link(s) to work**
 -    [Akagi-bot](https://github.com/skylarjhdownes/Akagi-Bot)
 
+
+
+### Day 5: June 20, Wednesday
+
+**Today's Progress**: Got all the of the flags for the Yaku which cared about game state implemented.
+
+**Thoughts** Chill day.  Not much to report.  Just kinda plugging along.
+
+**Link(s) to work**
+-    [Akagi-bot](https://github.com/skylarjhdownes/Akagi-Bot)
+
