@@ -71,3 +71,14 @@
 **Link(s) to work**
 -    [Akagi-bot](https://github.com/skylarjhdownes/Akagi-Bot)
 
+
+
+### Day 6: June 21, Thursday
+
+**Today's Progress**: Bunch of small things implemented.  Liability, max of 4 kongs, kuikae, refactored old pon and chi code
+
+**Thoughts** Basically a day of finding little things to implement.  Kinda hard near the end, as I'm running out of stuff to implment.  Just a few more big things and then the game will be playable.  
+
+**Link(s) to work**
+-    [Akagi-bot](https://github.com/skylarjhdownes/Akagi-Bot)
+
