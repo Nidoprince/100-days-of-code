@@ -82,3 +82,12 @@
 **Link(s) to work**
 -    [Akagi-bot](https://github.com/skylarjhdownes/Akagi-Bot)
 
+
+### Day 7: June 22, Friday
+
+**Today's Progress**: Got a tenpai checking function written, which allowed me to write the code for when the game ends in a draw.  
+
+**Thoughts** A week in as of today.  Its pretty cool how much I am getting done, even if I am only doing an hour or two each day.  This project kinda felt like it would last forever, but now it feels like it is almost done.
+
+**Link(s) to work**
+-    [Akagi-bot](https://github.com/skylarjhdownes/Akagi-Bot)
