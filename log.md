@@ -91,3 +91,13 @@
 
 **Link(s) to work**
 -    [Akagi-bot](https://github.com/skylarjhdownes/Akagi-Bot)
+
+
+### Day 8: June 23, Saturday
+
+**Today's Progress**: Got furiten and game end stuff coded.
+
+**Thoughts** Got a good bit of stuff done.  Only really one function left to right.
+
+**Link(s) to work**
+-    [Akagi-bot](https://github.com/skylarjhdownes/Akagi-Bot)
