@@ -101,3 +101,13 @@
 
 **Link(s) to work**
 -    [Akagi-bot](https://github.com/skylarjhdownes/Akagi-Bot)
+
+
+### Day 9: June 24, Sunday
+
+**Today's Progress**: Got ron coded.  Lots of little bits of this one.
+
+**Thoughts** Worked for a good long while.  One little edge case still needing to be dealt with, but otherwise, the main functionality of the game is done, but still pending testing.
+
+**Link(s) to work**
+-    [Akagi-bot](https://github.com/skylarjhdownes/Akagi-Bot)
