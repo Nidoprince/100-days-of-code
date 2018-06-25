@@ -111,3 +111,13 @@
 
 **Link(s) to work**
 -    [Akagi-bot](https://github.com/skylarjhdownes/Akagi-Bot)
+
+
+### Day 10: June 25, Monday
+
+**Today's Progress**: Added a bunch of small things I had missed.  Big thing today was changing scoring so that it could account for ties.
+
+**Thoughts** For the scoring bit, I first started with a really naive solution, but got so bored writing the code for it that I went back, deleted everything, and wrote a much more elegant solution.
+
+**Link(s) to work**
+-    [Akagi-bot](https://github.com/skylarjhdownes/Akagi-Bot)
