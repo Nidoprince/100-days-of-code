@@ -121,3 +121,13 @@
 
 **Link(s) to work**
 -    [Akagi-bot](https://github.com/skylarjhdownes/Akagi-Bot)
+
+
+### Day 11: June 26, Tuesday
+
+**Today's Progress**: Wrote testing function, and began testing hands.  Tons of bug fixes in the scoring algorithm.
+
+**Thoughts** Fun to get into all the testing stuff.  A bunch of bugs squashed.  Good times.
+
+**Link(s) to work**
+-    [Akagi-bot](https://github.com/skylarjhdownes/Akagi-Bot)
