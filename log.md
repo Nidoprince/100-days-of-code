@@ -131,3 +131,13 @@
 
 **Link(s) to work**
 -    [Akagi-bot](https://github.com/skylarjhdownes/Akagi-Bot)
+
+
+### Day 12: June 27, Wednesday
+
+**Today's Progress**: Continued testing.  Fixed more bugs.
+
+**Thoughts** Got all the example hands from the EMA rules tested, as well as all the yakuman hands.
+
+**Link(s) to work**
+-    [Akagi-bot](https://github.com/skylarjhdownes/Akagi-Bot)
