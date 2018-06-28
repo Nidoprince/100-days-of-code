@@ -141,3 +141,13 @@
 
 **Link(s) to work**
 -    [Akagi-bot](https://github.com/skylarjhdownes/Akagi-Bot)
+
+
+### Day 13: June 28, Thursday
+
+**Today's Progress**: Continued testing.  Fixed more bugs.
+
+**Thoughts** Went and tested every yaku in the game.  Need to test the game state based one's slightly differently, but all the purely hand based ones at least function.
+
+**Link(s) to work**
+-    [Akagi-bot](https://github.com/skylarjhdownes/Akagi-Bot)
