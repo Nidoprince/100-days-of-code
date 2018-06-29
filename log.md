@@ -151,3 +151,13 @@
 
 **Link(s) to work**
 -    [Akagi-bot](https://github.com/skylarjhdownes/Akagi-Bot)
+
+
+### Day 14: June 29, Friday
+
+**Today's Progress**: Continued testing.  Fixed more bugs.
+
+**Thoughts** Testing this time was a lot less clean, because it was game state stuff, instead of pure hand scoring stuff.  Just kinding grinding through games, looking for bugs to pop up.
+
+**Link(s) to work**
+-    [Akagi-bot](https://github.com/skylarjhdownes/Akagi-Bot)
