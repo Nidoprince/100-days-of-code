@@ -161,3 +161,13 @@
 
 **Link(s) to work**
 -    [Akagi-bot](https://github.com/skylarjhdownes/Akagi-Bot)
+
+
+### Day 15: June 30, Saturday
+
+**Today's Progress**: Did a bit more testing, fixed some bugs.  Added a toggleable system that helps inform players when they have the option of doing things in game.
+
+**Thoughts** Hanging out with friends for the day, so less focused than usual, but still got a useful new feature pushed.
+
+**Link(s) to work**
+-    [Akagi-bot](https://github.com/skylarjhdownes/Akagi-Bot)
