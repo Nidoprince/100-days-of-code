@@ -171,3 +171,14 @@
 
 **Link(s) to work**
 -    [Akagi-bot](https://github.com/skylarjhdownes/Akagi-Bot)
+
+
+
+### Day 16: July 1, Sunday
+
+**Today's Progress**: Testing ron, and tsumo.  Set up a system for testing so I can choose the tiles that get drawn.
+
+**Thoughts** Kinda a weird day.  I was kinda distracted while coding, so it wasn't insanely efficient, but I got it done.
+
+**Link(s) to work**
+-    [Akagi-bot](https://github.com/skylarjhdownes/Akagi-Bot)
