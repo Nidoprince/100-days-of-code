@@ -182,3 +182,13 @@
 
 **Link(s) to work**
 -    [Akagi-bot](https://github.com/skylarjhdownes/Akagi-Bot)
+
+
+### Day 17: July 2, Monday
+
+**Today's Progress**: Decided to take a day off of mahjong, and started going through a tutorial to make a multiplayer web game.  Built the basic skeleton of a game today.
+
+**Thoughts** Got started really late today, and just kinda felt braindead, so doing a tutorial and mostly copying code was what I felt up to today.  Still kinda fun regardless.
+
+**Link(s) to work**
+-    I'll add a link here once I put this up on github.
