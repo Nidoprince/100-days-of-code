@@ -192,3 +192,13 @@
 
 **Link(s) to work**
 -    I'll add a link here once I put this up on github.
+
+
+### Day 18: July 3, Tuesday
+
+**Today's Progress**: Tested.  No bugs found today.  One bug that I am pretty sure I didn't fix, fixed itself.
+
+**Thoughts** Lots of stuff got in the way today.  Didn't get the full hour done, but still tested a game.
+
+**Link(s) to work**
+-    I'll add a link here once I put this up on github.
