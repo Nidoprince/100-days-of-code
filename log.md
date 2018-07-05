@@ -201,4 +201,14 @@
 **Thoughts** Lots of stuff got in the way today.  Didn't get the full hour done, but still tested a game.
 
 **Link(s) to work**
--    I'll add a link here once I put this up on github.
+-    [Akagi-bot](https://github.com/skylarjhdownes/Akagi-Bot)
+
+
+### Day 19: July 4, Wednesday
+
+**Today's Progress**: Tested.  Fixed bugs in kan, and in the help system.
+
+**Thoughts**  Kinda undirected testing today.  Just playing games, and trying out as many different possible things I could, trying to break the system.
+
+**Link(s) to work**
+-    [Akagi-bot](https://github.com/skylarjhdownes/Akagi-Bot)
