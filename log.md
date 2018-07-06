@@ -212,3 +212,13 @@
 
 **Link(s) to work**
 -    [Akagi-bot](https://github.com/skylarjhdownes/Akagi-Bot)
+
+
+### Day 20: July 5, Thursday
+
+**Today's Progress**: Lots of bug fixes.  Fixed array testing, kan timing, timing in general, and ippatsu detection.
+
+**Thoughts**  Getting into the more insidious bugs now.  Or possibly I am just more tired than I have been when doing these.  Either way, more trouble finding the bugs than in the past.
+
+**Link(s) to work**
+-    [Akagi-bot](https://github.com/skylarjhdownes/Akagi-Bot)
