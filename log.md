@@ -221,4 +221,13 @@
 **Thoughts**  Getting into the more insidious bugs now.  Or possibly I am just more tired than I have been when doing these.  Either way, more trouble finding the bugs than in the past.
 
 **Link(s) to work**
+
+
+### Day 21: July 6, Friday
+
+**Today's Progress**: Worked on testing liability, furiten, stealing the kong, and pon vs chi priority.  Fixed bugs related to those areas.
+
+**Thoughts**  Nice seeing this working more and more.  Having things stand up to testing is always nice.  Still, found a lot of bugs today, though they weren't as bad as yesterday.
+
+**Link(s) to work**
 -    [Akagi-bot](https://github.com/skylarjhdownes/Akagi-Bot)
