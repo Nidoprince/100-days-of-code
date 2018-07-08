@@ -231,3 +231,13 @@
 
 **Link(s) to work**
 -    [Akagi-bot](https://github.com/skylarjhdownes/Akagi-Bot)
+
+
+### Day 22: July 7, Saturday
+
+**Today's Progress**: Finished testing liability.  Made liability and stealing the kong more explicit within the game.  Added a help command in order for people to learn about akagibot.
+
+**Thoughts**  Nothing too strenuous today.  Mostly just making the game more helpful and informative while you are playing, and adding in the help system so that people can check up on commands they don't know or remember how to use.
+
+**Link(s) to work**
+-    [Akagi-bot](https://github.com/skylarjhdownes/Akagi-Bot)
