@@ -251,3 +251,13 @@
 
 **Link(s) to work**
 -    [Akagi-bot](https://github.com/skylarjhdownes/Akagi-Bot)
+
+
+### Day 24: July 9, Monday
+
+**Today's Progress**: Added new commands to translate and score yaku, made some functions better named, made the game output appropriately to the game observation channel.
+
+**Thoughts**  It was nice getting to code during the early part of the day again, instead of when I am dead tired.  Got a fair amount of stuff done today.
+
+**Link(s) to work**
+-    [Akagi-bot](https://github.com/skylarjhdownes/Akagi-Bot)
