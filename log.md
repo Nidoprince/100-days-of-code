@@ -241,3 +241,13 @@
 
 **Link(s) to work**
 -    [Akagi-bot](https://github.com/skylarjhdownes/Akagi-Bot)
+
+
+### Day 23: July 8, Sunday
+
+**Today's Progress**: Tested haitei, houtei, exaustive draw, and general chat messaging.  Fixed bugs in the latter two areas.  Added more help commands.
+
+**Thoughts**  Took me entirely too long to realize that constructor was spelled wrong.  Got everything fixed and got some good testing, either way.
+
+**Link(s) to work**
+-    [Akagi-bot](https://github.com/skylarjhdownes/Akagi-Bot)
