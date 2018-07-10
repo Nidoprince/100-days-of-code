@@ -261,3 +261,14 @@
 
 **Link(s) to work**
 -    [Akagi-bot](https://github.com/skylarjhdownes/Akagi-Bot)
+
+
+
+### Day 25: July 10, Tuesday
+
+**Today's Progress**: Created three planets, and added gravity to them in the multiplayer game.
+
+**Thoughts**  Inspired by the book 'The Three Body Problem', I decided to work on my multiplayer game today, wanting to do something with gravity and the orbits of suns and planets.  Added the basic structure for a three body system.
+
+**Link(s) to work**
+-    I'll add a link here once I put this up on github.
