@@ -282,3 +282,13 @@
 
 **Link(s) to work**
 -    [Three Body](https://github.com/Nidoprince/threeBody)
+
+
+### Day 27: July 12, Thursday
+
+**Today's Progress**: Implemented collision physics and let gravity and collisions effect the players.
+
+**Thoughts**  Spent a lot of time today just reading physics stuff online.  Not how I was expecting to spend the day, but it was fun.
+
+**Link(s) to work**
+-    [Three Body](https://github.com/Nidoprince/threeBody)
