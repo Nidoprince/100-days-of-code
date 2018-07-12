@@ -191,7 +191,7 @@
 **Thoughts** Got started really late today, and just kinda felt braindead, so doing a tutorial and mostly copying code was what I felt up to today.  Still kinda fun regardless.
 
 **Link(s) to work**
--    I'll add a link here once I put this up on github.
+-    [Three Body](https://github.com/Nidoprince/threeBody)
 
 
 ### Day 18: July 3, Tuesday
@@ -271,4 +271,14 @@
 **Thoughts**  Inspired by the book 'The Three Body Problem', I decided to work on my multiplayer game today, wanting to do something with gravity and the orbits of suns and planets.  Added the basic structure for a three body system.
 
 **Link(s) to work**
--    I'll add a link here once I put this up on github.
+-    [Three Body](https://github.com/Nidoprince/threeBody)
+
+
+### Day 26: July 11, Wednesday
+
+**Today's Progress**: Lotta backend stuff to make communication with server better.  Made it so you can move the camera.
+
+**Thoughts**  Not super fun stuff today, but getting it prepared to start doing interesting stuff soon.
+
+**Link(s) to work**
+-    [Three Body](https://github.com/Nidoprince/threeBody)
