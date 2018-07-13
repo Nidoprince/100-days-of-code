@@ -292,3 +292,14 @@
 
 **Link(s) to work**
 -    [Three Body](https://github.com/Nidoprince/threeBody)
+
+
+### Day 28: July 13, Friday
+
+**Today's Progress**: Got the game up online, and added a zoom functionality, as well as a brief description of controls at bottom of page.
+
+**Thoughts**  Figuring how to get it working online involved a lot of beating my head against a wall, but it was really cool once it worked.  Zoom involved a lot of math intuition.  People have actually derived some amount of pleasure from this game now.
+
+**Link(s) to work**
+-    [Three Body - Github](https://github.com/Nidoprince/threeBody)
+-    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
