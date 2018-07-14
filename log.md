@@ -303,3 +303,14 @@
 **Link(s) to work**
 -    [Three Body - Github](https://github.com/Nidoprince/threeBody)
 -    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
+
+
+### Day 29: July 14, Saturday
+
+**Today's Progress**: Added different controls when in atmosphere, and made the game window follow the planet you are on.
+
+**Thoughts**  Got some like, weird bugs going on with gravity and all that.  Pretty expected in a game like this probably though.
+
+**Link(s) to work**
+-    [Three Body - Github](https://github.com/Nidoprince/threeBody)
+-    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
