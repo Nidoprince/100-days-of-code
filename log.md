@@ -325,3 +325,14 @@
 **Link(s) to work**
 -    [Three Body - Github](https://github.com/Nidoprince/threeBody)
 -    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
+
+
+### Day 31: July 16, Monday
+
+**Today's Progress**: Made a background starscape, made it twinkle, and made a player focus toggle, as well as adjusting zooming.
+
+**Thoughts**  Lots of work figuring out how to make the starscape without using up too much computation.  Lots of trying, testing, and crashing my browser.
+
+**Link(s) to work**
+-    [Three Body - Github](https://github.com/Nidoprince/threeBody)
+-    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
