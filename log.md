@@ -314,3 +314,14 @@
 **Link(s) to work**
 -    [Three Body - Github](https://github.com/Nidoprince/threeBody)
 -    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
+
+
+### Day 30: July 15, Sunday
+
+**Today's Progress**: Added a lot of logging for player velocity.  Changed some universal constants.
+
+**Thoughts**  Wrested with object passing for most of today.  Eventually figured out it was a problem with how json stores info.  Changed my code to accommodate.
+
+**Link(s) to work**
+-    [Three Body - Github](https://github.com/Nidoprince/threeBody)
+-    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
