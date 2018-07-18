@@ -336,3 +336,14 @@
 **Link(s) to work**
 -    [Three Body - Github](https://github.com/Nidoprince/threeBody)
 -    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
+
+
+### Day 32: July 17, Tuesday
+
+**Today's Progress**: Added spaceships.
+
+**Thoughts**  Lots of thinking about angles and vectors in order to draw the spaceships as they spin around.
+
+**Link(s) to work**
+-    [Three Body - Github](https://github.com/Nidoprince/threeBody)
+-    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
