@@ -347,3 +347,14 @@
 **Link(s) to work**
 -    [Three Body - Github](https://github.com/Nidoprince/threeBody)
 -    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
+
+
+### Day 33: July 18, Wednesday
+
+**Today's Progress**: Let players choose a faction, and made key press triggering better.
+
+**Thoughts**  Kinda an eh day.  Code took some time, but generally worked.  Lots of just like time spent typing stuff for the key trigger stuff that didn't really involve thinking.
+
+**Link(s) to work**
+-    [Three Body - Github](https://github.com/Nidoprince/threeBody)
+-    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
