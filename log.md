@@ -358,3 +358,14 @@
 **Link(s) to work**
 -    [Three Body - Github](https://github.com/Nidoprince/threeBody)
 -    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
+
+
+### Day 34: July 19, Thursday
+
+**Today's Progress**: Let players enter and exit spaceships, and control them.
+
+**Thoughts**  Lot more work than I was expecting for this bit.  Data structures are getting pretty convoluted.  Lots of tweaking needed to make this feel smooth.
+
+**Link(s) to work**
+-    [Three Body - Github](https://github.com/Nidoprince/threeBody)
+-    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
