@@ -369,3 +369,13 @@
 **Link(s) to work**
 -    [Three Body - Github](https://github.com/Nidoprince/threeBody)
 -    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
+
+
+### Day 35: July 20, Friday
+
+**Today's Progress**: Worked on akagibot today.  Tested game end and added restart option.  Also taught a friend how to use github and code rock paper scissors.
+
+**Thoughts**  Interesting switching back to coffeescript after codeing in javascript for a few weeks.  It was fun getting reaquainted with the code.
+
+**Link(s) to work**
+-    [Akagi-bot](https://github.com/skylarjhdownes/Akagi-Bot)
