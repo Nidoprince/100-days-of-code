@@ -379,3 +379,14 @@
 
 **Link(s) to work**
 -    [Akagi-bot](https://github.com/skylarjhdownes/Akagi-Bot)
+
+
+
+### Day 36: July 21, Saturday
+
+**Today's Progress**: Added more animations to the spaceships, so you can see the thrusters firing.
+**Thoughts**  Animation stuff is always a bit finicky.  Not something I super enjoy, but its always nice seeing the final product.
+
+**Link(s) to work**
+-    [Three Body - Github](https://github.com/Nidoprince/threeBody)
+-    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
