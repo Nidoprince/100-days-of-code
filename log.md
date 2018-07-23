@@ -402,3 +402,14 @@
 **Link(s) to work**
 -    [Three Body - Github](https://github.com/Nidoprince/threeBody)
 -    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
+
+
+### Day 38: July 23, Monday
+
+**Today's Progress**: Spread code out among different files, smoothed out animations, and added fuel spawns on planets.
+
+**Thoughts**  Its interesting seeing where this game goes as I continue to code it.  Originally just thought of it as a space battle sim, but I definitely want to include some non violent stuff now.
+
+**Link(s) to work**
+-    [Three Body - Github](https://github.com/Nidoprince/threeBody)
+-    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
