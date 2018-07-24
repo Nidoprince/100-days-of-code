@@ -413,3 +413,14 @@
 **Link(s) to work**
 -    [Three Body - Github](https://github.com/Nidoprince/threeBody)
 -    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
+
+
+### Day 39: July 24, Tuesday
+
+**Today's Progress**: Added parking breaks, and in the process, adjusted camera follow and key input.
+
+**Thoughts**  Small change lead to finding better solutions to a number of the systems in my game.
+
+**Link(s) to work**
+-    [Three Body - Github](https://github.com/Nidoprince/threeBody)
+-    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
