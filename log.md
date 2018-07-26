@@ -424,3 +424,14 @@
 **Link(s) to work**
 -    [Three Body - Github](https://github.com/Nidoprince/threeBody)
 -    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
+
+
+### Day 40: July 25, Wednesday
+
+**Today's Progress**: Added fuel mining, fueling up one's ship, and flying a spaceship now uses fuel.
+
+**Thoughts**  Generally a solid day.  Some animation stuff for the fuel bar, and a some angle problems for the fuel at first caused some problems, but generally things worked out today.
+
+**Link(s) to work**
+-    [Three Body - Github](https://github.com/Nidoprince/threeBody)
+-    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
