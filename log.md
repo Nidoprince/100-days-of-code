@@ -435,3 +435,14 @@
 **Link(s) to work**
 -    [Three Body - Github](https://github.com/Nidoprince/threeBody)
 -    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
+
+
+### Day 41: July 26, Thursday
+
+**Today's Progress**: Players and ships can die if they crash into a planet really hard.
+
+**Thoughts**  This was actually annoyingly hard.  Lots of figuring out how to removes stuff from arrays while passing them around.
+
+**Link(s) to work**
+-    [Three Body - Github](https://github.com/Nidoprince/threeBody)
+-    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
