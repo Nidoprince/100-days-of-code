@@ -446,3 +446,14 @@
 **Link(s) to work**
 -    [Three Body - Github](https://github.com/Nidoprince/threeBody)
 -    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
+
+
+### Day 42: July 27, Friday
+
+**Today's Progress**: Already having, the universe, and everything in my game, I added life. Flocking space birds added.
+
+**Thoughts**  Lots of screwing around with initial conditions to get a nice flocking behavior.  Not to mention more thand a few dumb bugs.
+
+**Link(s) to work**
+-    [Three Body - Github](https://github.com/Nidoprince/threeBody)
+-    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
