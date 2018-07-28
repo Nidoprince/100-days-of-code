@@ -457,3 +457,14 @@
 **Link(s) to work**
 -    [Three Body - Github](https://github.com/Nidoprince/threeBody)
 -    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
+
+
+### Day 43: July 28, Saturday
+
+**Today's Progress**: Ships now explode when they die, not just dissapear.
+
+**Thoughts**  I think this ultimately made the death bit better and more robust.
+
+**Link(s) to work**
+-    [Three Body - Github](https://github.com/Nidoprince/threeBody)
+-    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
