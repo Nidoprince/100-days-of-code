@@ -479,3 +479,14 @@
 **Link(s) to work**
 -    [Three Body - Github](https://github.com/Nidoprince/threeBody)
 -    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
+
+
+### Day 45: July 30, Monday
+
+**Today's Progress**: Made iron mining less effective on the same asteroid over time, and added something to help keep track of ship orientation while zoomed out.
+
+**Thoughts**  Not too crazy today.  Both things were pretty straightforward to implement.
+
+**Link(s) to work**
+-    [Three Body - Github](https://github.com/Nidoprince/threeBody)
+-    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
