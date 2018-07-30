@@ -468,3 +468,14 @@
 **Link(s) to work**
 -    [Three Body - Github](https://github.com/Nidoprince/threeBody)
 -    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
+
+
+### Day 44: July 29, Sunday
+
+**Today's Progress**: Reduced data sent by server each 1/60th of a second.
+
+**Thoughts**  Fairly straightforward.  Only passing the data that is needed, instead of everything.
+
+**Link(s) to work**
+-    [Three Body - Github](https://github.com/Nidoprince/threeBody)
+-    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
