@@ -490,3 +490,14 @@
 **Link(s) to work**
 -    [Three Body - Github](https://github.com/Nidoprince/threeBody)
 -    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
+
+
+### Day 46: July 31, Tuesday
+
+**Today's Progress**: Added a menu for building things, and made it so you could create ships by spending 1 iron.
+
+**Thoughts**  This was a lot easier than I had expected.  The structure I'd built up already is paying off.
+
+**Link(s) to work**
+-    [Three Body - Github](https://github.com/Nidoprince/threeBody)
+-    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
