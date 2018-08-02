@@ -512,3 +512,14 @@
 **Link(s) to work**
 -    [Three Body - Github](https://github.com/Nidoprince/threeBody)
 -    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
+
+
+### Day 48: August 2, Thursday
+
+**Today's Progress**: Now the towing ship can actually tow ships.  Also, you can build it.
+
+**Thoughts**  Pretty straightforward day.  Just had to hook all the pieces together and add string math.
+
+**Link(s) to work**
+-    [Three Body - Github](https://github.com/Nidoprince/threeBody)
+-    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
