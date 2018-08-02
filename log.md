@@ -501,3 +501,14 @@
 **Link(s) to work**
 -    [Three Body - Github](https://github.com/Nidoprince/threeBody)
 -    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
+
+
+### Day 47: August 1, Wednesday
+
+**Today's Progress**: Added a new type of ship and did animations for it.
+
+**Thoughts**  Similar to other animation work, it takes a lot of time to make sure it looks right.
+
+**Link(s) to work**
+-    [Three Body - Github](https://github.com/Nidoprince/threeBody)
+-    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
