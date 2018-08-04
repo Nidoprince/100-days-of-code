@@ -523,3 +523,14 @@
 **Link(s) to work**
 -    [Three Body - Github](https://github.com/Nidoprince/threeBody)
 -    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
+
+
+### Day 49: August 3, Friday
+
+**Today's Progress**: Stopped folks from being in the same ship.
+
+**Thoughts**  Built infrastucture to make multi piloted ships possible.
+
+**Link(s) to work**
+-    [Three Body - Github](https://github.com/Nidoprince/threeBody)
+-    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
