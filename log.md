@@ -534,3 +534,14 @@
 **Link(s) to work**
 -    [Three Body - Github](https://github.com/Nidoprince/threeBody)
 -    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
+
+
+### Day 50: August 4, Saturday
+
+**Today's Progress**: Made a new type of ship that mine's faster, and can hold 2 people.
+
+**Thoughts**  Worked the kinks out the stuff I did yesterday in order to get a functioning two person ship going.
+
+**Link(s) to work**
+-    [Three Body - Github](https://github.com/Nidoprince/threeBody)
+-    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
