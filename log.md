@@ -545,3 +545,14 @@
 **Link(s) to work**
 -    [Three Body - Github](https://github.com/Nidoprince/threeBody)
 -    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
+
+
+### Day 51: August 5, Sunday
+
+**Today's Progress**: Allowed the creation of the mining ship.
+
+**Thoughts**  Just been executing on concepts, and not really pushing myself the last few days since I have been exausted from con stuff.
+
+**Link(s) to work**
+-    [Three Body - Github](https://github.com/Nidoprince/threeBody)
+-    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
