@@ -556,3 +556,14 @@
 **Link(s) to work**
 -    [Three Body - Github](https://github.com/Nidoprince/threeBody)
 -    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
+
+
+### Day 52: August 7, Tuesday
+
+**Today's Progress**: Fixed bugs in the spawning of spaceships on planets.  Worked with keyboard input to make it much much smoother, and made asteroids a valid place to build a ship.
+
+**Thoughts**  Mostly just working on bugs that have been annoying me for a while now.  Making the play exprerience smoother.  Got some fun plans coming up in the next few days though.
+
+**Link(s) to work**
+-    [Three Body - Github](https://github.com/Nidoprince/threeBody)
+-    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
