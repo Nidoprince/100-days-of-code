@@ -567,3 +567,14 @@
 **Link(s) to work**
 -    [Three Body - Github](https://github.com/Nidoprince/threeBody)
 -    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
+
+
+### Day 53: August 8, Wednesday
+
+**Today's Progress**: Made asteroids appear and disappear instead of having a static number of them.
+
+**Thoughts**  Started seeing some lag when zoomed out.  Unsure if its because of something I changed today or if its because of other stuff I was doing on my computer while also testing.
+
+**Link(s) to work**
+-    [Three Body - Github](https://github.com/Nidoprince/threeBody)
+-    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
