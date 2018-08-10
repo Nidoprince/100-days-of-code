@@ -578,3 +578,14 @@
 **Link(s) to work**
 -    [Three Body - Github](https://github.com/Nidoprince/threeBody)
 -    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
+
+
+### Day 54: August 9, Thursday
+
+**Today's Progress**: Added another reality that overlaps with the normal one, but things in one don't affect the other.
+
+**Thoughts**  Went pretty smoothly.  No real hitches.  Currently the player can see into the other reality, but can't affect it.
+
+**Link(s) to work**
+-    [Three Body - Github](https://github.com/Nidoprince/threeBody)
+-    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
