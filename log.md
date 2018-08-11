@@ -589,3 +589,14 @@
 **Link(s) to work**
 -    [Three Body - Github](https://github.com/Nidoprince/threeBody)
 -    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
+
+
+### Day 55: August 10, Friday
+
+**Today's Progress**: Added the reality rocket, which can jump between dimensions.
+
+**Thoughts**  Animation stuff was a bit of a jungle again.  Dimension hopping was reletively straightforward.  Just had a couple bugs with docking and exploding.
+
+**Link(s) to work**
+-    [Three Body - Github](https://github.com/Nidoprince/threeBody)
+-    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
