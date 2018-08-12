@@ -600,3 +600,14 @@
 **Link(s) to work**
 -    [Three Body - Github](https://github.com/Nidoprince/threeBody)
 -    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
+
+
+### Day 56: August 11, Saturday
+
+**Today's Progress**: Reality rocket can be built.  Asteroids can spawn in alternate reality, and chronos asteroids can spawn.
+
+**Thoughts**  Quick work today.  Nothing too complicated.
+
+**Link(s) to work**
+-    [Three Body - Github](https://github.com/Nidoprince/threeBody)
+-    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
