@@ -611,3 +611,14 @@
 **Link(s) to work**
 -    [Three Body - Github](https://github.com/Nidoprince/threeBody)
 -    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
+
+
+### Day 57: August 12, Sunday
+
+**Today's Progress**: Added the begginings of touch support to the game.  Its really bad and awkward now, but we'll get there.
+
+**Thoughts**  Lots of research, and lots of bug fixing.
+
+**Link(s) to work**
+-    [Three Body - Github](https://github.com/Nidoprince/threeBody)
+-    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
