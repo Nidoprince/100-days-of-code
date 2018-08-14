@@ -622,3 +622,14 @@
 **Link(s) to work**
 -    [Three Body - Github](https://github.com/Nidoprince/threeBody)
 -    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
+
+
+### Day 58: August 13, Monday
+
+**Today's Progress**: Got a lot of the messed up parts of yesterday fixed, and added the ability to enter and exit spaceships and control them.  Also added a file to test functions.
+
+**Thoughts**  Starting to figure this touch stuff out a bit.  Not completely terrible now.
+
+**Link(s) to work**
+-    [Three Body - Github](https://github.com/Nidoprince/threeBody)
+-    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
