@@ -633,3 +633,14 @@
 **Link(s) to work**
 -    [Three Body - Github](https://github.com/Nidoprince/threeBody)
 -    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
+
+
+### Day 59: August 14, Tuesday
+
+**Today's Progress**: Added zoom control and made yesterday's stuff better.
+
+**Thoughts**  Really gotta get a bet star algorithm.  Zoom out to far in a mobile browser and it just freezes.
+
+**Link(s) to work**
+-    [Three Body - Github](https://github.com/Nidoprince/threeBody)
+-    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
