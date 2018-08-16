@@ -644,3 +644,14 @@
 **Link(s) to work**
 -    [Three Body - Github](https://github.com/Nidoprince/threeBody)
 -    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
+
+
+### Day 60: August 15, Wednesday
+
+**Today's Progress**: Made planets not absorb into each other any more.  Fixed some text stuff.  Added a parking indicator.  Also, reduced number of stars for processing purposes.
+
+**Thoughts**  Bunch of small fixes.  The parking indicator will lead into some touch stuff.  Might code more tonight.
+
+**Link(s) to work**
+-    [Three Body - Github](https://github.com/Nidoprince/threeBody)
+-    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
