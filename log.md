@@ -655,3 +655,14 @@
 **Link(s) to work**
 -    [Three Body - Github](https://github.com/Nidoprince/threeBody)
 -    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
+
+
+### Day 61: August 16, Thursday
+
+**Today's Progress**: Added info button special ships.  Added touch support for parking/unparking, and activating special ship abilities.
+
+**Thoughts**  Wasn't expecting it to go as smoothly as it did.  Nice that it did.
+
+**Link(s) to work**
+-    [Three Body - Github](https://github.com/Nidoprince/threeBody)
+-    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
