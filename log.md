@@ -673,6 +673,18 @@
 **Today's Progress**: Adjusted way that the screen scales, then dealt with the touch problems that created.  Added ability to mine with touch.
 
 **Thoughts**  Dealing with the touch changes from scaling the screen was really silly.  It took forever.  Got it figured out eventually though.
+
+**Link(s) to work**
+-    [Three Body - Github](https://github.com/Nidoprince/threeBody)
+-    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
+
+
+### Day 63: August 18, Saturday
+
+**Today's Progress**: Added touch support for building things, and gave everyone free iron.
+
+**Thoughts**  Pretty simple stuff today.  It was getting late so I just implemented quickly.
+
 **Link(s) to work**
 -    [Three Body - Github](https://github.com/Nidoprince/threeBody)
 -    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
