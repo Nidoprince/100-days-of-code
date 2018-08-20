@@ -688,3 +688,13 @@
 **Link(s) to work**
 -    [Three Body - Github](https://github.com/Nidoprince/threeBody)
 -    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
+
+
+### Day 64: August 19, Sunday
+
+**Today's Progress**: Worked on making a tutorial for discord bots today.
+
+**Thoughts**  Not a ton of coding today, but figuring stuff out, and reinforcing knowledge.
+
+**Link(s) to work**
+-    I'll add github link here at a later date once I have uploaded to github.
