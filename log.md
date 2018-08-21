@@ -697,4 +697,16 @@
 **Thoughts**  Not a ton of coding today, but figuring stuff out, and reinforcing knowledge.
 
 **Link(s) to work**
--    I'll add github link here at a later date once I have uploaded to github.
+-    [Tutorial - Code](https://github.com/Nidoprince/BotTutorial)
+-    [Tutorial - Link](http://nidoprince.com/botTutorial/)
+
+
+### Day 65: August 20, Monday
+
+**Today's Progress**: Got the tutorial all written up today and put online.
+
+**Thoughts**  Did more with html than I had done in a while.  Did this tutorial, but also edited my online character sheet.
+
+**Link(s) to work**
+-    [Tutorial - Code](https://github.com/Nidoprince/BotTutorial)
+-    [Tutorial - Link](http://nidoprince.com/botTutorial/)
