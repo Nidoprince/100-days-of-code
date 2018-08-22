@@ -710,3 +710,14 @@
 **Link(s) to work**
 -    [Tutorial - Code](https://github.com/Nidoprince/BotTutorial)
 -    [Tutorial - Link](http://nidoprince.com/botTutorial/)
+
+
+### Day 66: August 21, Tuesday
+
+**Today's Progress**: Did a bunch of stuff to make the game more smooth.  Player movement, planet velocities, planet sizes, all mixed around with.
+
+**Thoughts**  The vast majority of the work today was tuning numbers so that the planets would stay in orbit.
+
+**Link(s) to work**
+-    [Three Body - Github](https://github.com/Nidoprince/threeBody)
+-    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
