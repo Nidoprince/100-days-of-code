@@ -732,3 +732,14 @@
 **Link(s) to work**
 -    [Three Body - Github](https://github.com/Nidoprince/threeBody)
 -    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
+
+
+### Day 68: August 23, Thursday
+
+**Today's Progress**: Messed with friction, let players make cars, fixed some visual bugs.
+
+**Thoughts**  Had to add some new vector math to get friction feeling right.
+
+**Link(s) to work**
+-    [Three Body - Github](https://github.com/Nidoprince/threeBody)
+-    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
