@@ -743,3 +743,14 @@
 **Link(s) to work**
 -    [Three Body - Github](https://github.com/Nidoprince/threeBody)
 -    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
+
+
+### Day 69: August 24, Friday
+
+**Today's Progress**: Made air a thing.  Made it so you can mine in cars.  Added a bunch of comments.
+
+**Thoughts**  Pretty simple stuff today.  I need to get back into programming during the day when I am not exausted.
+
+**Link(s) to work**
+-    [Three Body - Github](https://github.com/Nidoprince/threeBody)
+-    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
