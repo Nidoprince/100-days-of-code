@@ -754,3 +754,14 @@
 **Link(s) to work**
 -    [Three Body - Github](https://github.com/Nidoprince/threeBody)
 -    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
+
+
+### Day 70: August 25, Saturday
+
+**Today's Progress**: Added a jump ship and the ability to make the jump ship.
+
+**Thoughts**  Really straightforward.  
+
+**Link(s) to work**
+-    [Three Body - Github](https://github.com/Nidoprince/threeBody)
+-    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
