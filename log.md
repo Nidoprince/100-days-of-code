@@ -765,3 +765,14 @@
 **Link(s) to work**
 -    [Three Body - Github](https://github.com/Nidoprince/threeBody)
 -    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
+
+
+### Day 71: August 26, Sunday
+
+**Today's Progress**: Added the begginings of buildings.
+
+**Thoughts**  Lots of steps, but pretty straightforward as well.  Lots of animations work. 
+
+**Link(s) to work**
+-    [Three Body - Github](https://github.com/Nidoprince/threeBody)
+-    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
