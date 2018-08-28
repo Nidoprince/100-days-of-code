@@ -776,3 +776,14 @@
 **Link(s) to work**
 -    [Three Body - Github](https://github.com/Nidoprince/threeBody)
 -    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
+
+
+### Day 72: August 27, Monday
+
+**Today's Progress**: Refineries can combine elements to make new ones.
+
+**Thoughts**  Lots of moving parts to this one, but it got put together pretty well.
+
+**Link(s) to work**
+-    [Three Body - Github](https://github.com/Nidoprince/threeBody)
+-    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
