@@ -787,3 +787,14 @@
 **Link(s) to work**
 -    [Three Body - Github](https://github.com/Nidoprince/threeBody)
 -    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
+
+
+### Day 73: August 28, Tuesday
+
+**Today's Progress**: Added a new refined kind of fuel that works better in rockets.
+
+**Thoughts**  Not much today.  Trying to vaguely get back on a functional sleep schedule.
+
+**Link(s) to work**
+-    [Three Body - Github](https://github.com/Nidoprince/threeBody)
+-    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
