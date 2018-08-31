@@ -798,3 +798,14 @@
 **Link(s) to work**
 -    [Three Body - Github](https://github.com/Nidoprince/threeBody)
 -    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
+
+
+### Day 74: August 30, Thursday
+
+**Today's Progress**: Added the ability to drop and pick up items from the inventory.
+
+**Thoughts**  Lots of different things needed to be hooked together for this to work, but it went pretty well.  Definitely a nice feature.
+
+**Link(s) to work**
+-    [Three Body - Github](https://github.com/Nidoprince/threeBody)
+-    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
