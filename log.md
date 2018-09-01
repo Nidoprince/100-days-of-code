@@ -809,3 +809,14 @@
 **Link(s) to work**
 -    [Three Body - Github](https://github.com/Nidoprince/threeBody)
 -    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
+
+
+### Day 75: August 31, Friday
+
+**Today's Progress**: Fixed some touch screen bugs that had popped up.  Started work on the next building, the warehouse.
+
+**Thoughts**  Bugtesting on the phone is always annoying, but eventually it worked out.  Warehouse should be straightforward.
+
+**Link(s) to work**
+-    [Three Body - Github](https://github.com/Nidoprince/threeBody)
+-    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
