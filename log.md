@@ -820,3 +820,14 @@
 **Link(s) to work**
 -    [Three Body - Github](https://github.com/Nidoprince/threeBody)
 -    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
+
+
+### Day 76: September 1, Saturday
+
+**Today's Progress**: Got the functionality of the warehouse working.
+
+**Thoughts**  A fair amount of bugs had to be worked out for this one but it worked eventually.
+
+**Link(s) to work**
+-    [Three Body - Github](https://github.com/Nidoprince/threeBody)
+-    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
