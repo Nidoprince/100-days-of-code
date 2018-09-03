@@ -831,3 +831,15 @@
 **Link(s) to work**
 -    [Three Body - Github](https://github.com/Nidoprince/threeBody)
 -    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
+
+
+
+### Day 77: September 2, Sunday
+
+**Today's Progress**: Added wormholes to other places and realities.
+
+**Thoughts**  Pretty straightforward.  Inspired by eve online gameplay from today.
+
+**Link(s) to work**
+-    [Three Body - Github](https://github.com/Nidoprince/threeBody)
+-    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
