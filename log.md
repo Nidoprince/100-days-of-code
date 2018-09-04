@@ -843,3 +843,15 @@
 **Link(s) to work**
 -    [Three Body - Github](https://github.com/Nidoprince/threeBody)
 -    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
+
+
+
+### Day 78: September 3, Monday
+
+**Today's Progress**: Wormholes spawn now, and added a new reality.
+
+**Thoughts**  Not much actual coding.
+
+**Link(s) to work**
+-    [Three Body - Github](https://github.com/Nidoprince/threeBody)
+-    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
