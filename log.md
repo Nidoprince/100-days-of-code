@@ -855,3 +855,14 @@
 **Link(s) to work**
 -    [Three Body - Github](https://github.com/Nidoprince/threeBody)
 -    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
+
+
+### Day 79: September 4, Tuesday
+
+**Today's Progress**: Started working on capitol ships.  Got basic animation and movement done.
+
+**Thoughts**  I really ought to have done all the animation stuff at the same time.  I forget stuff between each time.
+
+**Link(s) to work**
+-    [Three Body - Github](https://github.com/Nidoprince/threeBody)
+-    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
