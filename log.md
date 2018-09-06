@@ -866,3 +866,14 @@
 **Link(s) to work**
 -    [Three Body - Github](https://github.com/Nidoprince/threeBody)
 -    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
+
+
+### Day 80: September 5, Wednesday
+
+**Today's Progress**: Got more capitol ship animation done, made explosions scale with ship size, and did some planning for capitol ship abilities.
+
+**Thoughts**  Animation stuff a bit tricky.  Planning was fun.  Explosions still look cool.
+
+**Link(s) to work**
+-    [Three Body - Github](https://github.com/Nidoprince/threeBody)
+-    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
