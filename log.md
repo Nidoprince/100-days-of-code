@@ -877,3 +877,25 @@
 **Link(s) to work**
 -    [Three Body - Github](https://github.com/Nidoprince/threeBody)
 -    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
+
+
+### Day 81: September 6, Thursday
+
+**Today's Progress**: Added the gravity drive to the capitol ship.  Added fin turning.
+
+**Thoughts**  Almost no bugs this time around which was nice.  Just had to tweak a few things here and there.
+
+**Link(s) to work**
+-    [Three Body - Github](https://github.com/Nidoprince/threeBody)
+-    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
+
+
+### Day 82: September 7, Friday
+
+**Today's Progress**: Added the dissassembly blast to the capitol ship.
+
+**Thoughts**  Had my first completely baffling bug in a while.  Got it figured out eventually, but I had to use the debugger and do some guesswork.
+
+**Link(s) to work**
+-    [Three Body - Github](https://github.com/Nidoprince/threeBody)
+-    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
