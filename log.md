@@ -899,3 +899,14 @@
 **Link(s) to work**
 -    [Three Body - Github](https://github.com/Nidoprince/threeBody)
 -    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
+
+
+### Day 83: September 8, Saturday
+
+**Today's Progress**: Fixed a bunch of small bugs and nonworking features, plus let you build the capitol ship.
+
+**Thoughts**  Chill day.  Just worked through a few problems and fixed stuff up.
+
+**Link(s) to work**
+-    [Three Body - Github](https://github.com/Nidoprince/threeBody)
+-    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
