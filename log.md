@@ -910,3 +910,14 @@
 **Link(s) to work**
 -    [Three Body - Github](https://github.com/Nidoprince/threeBody)
 -    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
+
+
+### Day 84: September 9, Sunday
+
+**Today's Progress**: Added a new type of car, that's faster, and with better gas mileage.  Also it jumps.  Made icons for capitol ship systems.
+
+**Thoughts**  Everything just worked today, really quickly.
+
+**Link(s) to work**
+-    [Three Body - Github](https://github.com/Nidoprince/threeBody)
+-    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
