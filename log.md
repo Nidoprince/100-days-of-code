@@ -921,3 +921,14 @@
 **Link(s) to work**
 -    [Three Body - Github](https://github.com/Nidoprince/threeBody)
 -    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
+
+
+### Day 84: September 10, Monday
+
+**Today's Progress**: Added a tank.  Has it keep track of how many people are in each faction, plus faction score.
+
+**Thoughts**  Pretty straightforward.  Animating the tank was a lot easier than I thought it would be.  I'm starting to get the workflow down.
+
+**Link(s) to work**
+-    [Three Body - Github](https://github.com/Nidoprince/threeBody)
+-    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
