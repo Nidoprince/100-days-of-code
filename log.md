@@ -923,11 +923,22 @@
 -    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
 
 
-### Day 84: September 10, Monday
+### Day 85: September 10, Monday
 
 **Today's Progress**: Added a tank.  Has it keep track of how many people are in each faction, plus faction score.
 
 **Thoughts**  Pretty straightforward.  Animating the tank was a lot easier than I thought it would be.  I'm starting to get the workflow down.
+
+**Link(s) to work**
+-    [Three Body - Github](https://github.com/Nidoprince/threeBody)
+-    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
+
+
+### Day 86: September 11, Tuesday
+
+**Today's Progress**: Added a scanner that can tell you what direction the closest asteroid of a given content is.
+
+**Thoughts**  Managed to figure out what the goal of the game will be from this, which is exciting.  Work itself wasn't too bad.
 
 **Link(s) to work**
 -    [Three Body - Github](https://github.com/Nidoprince/threeBody)
