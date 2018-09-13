@@ -943,3 +943,14 @@
 **Link(s) to work**
 -    [Three Body - Github](https://github.com/Nidoprince/threeBody)
 -    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
+
+
+### Day 87: September 12, Wednesday
+
+**Today's Progress**: Added a helmet to let you breathe in space, and a crash suit to let you survive explosions.  Also worked on inventory management stuff.
+
+**Thoughts**  Its really cool having a clear objective and like having a goal for the end of the game.  Plus, getting my code done before 6am is nice.
+
+**Link(s) to work**
+-    [Three Body - Github](https://github.com/Nidoprince/threeBody)
+-    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
