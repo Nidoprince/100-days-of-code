@@ -954,3 +954,10 @@
 **Link(s) to work**
 -    [Three Body - Github](https://github.com/Nidoprince/threeBody)
 -    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
+
+
+### Day 88: September 13, Thursday
+
+**Today's Progress**: Added beginnings of two items, and full functionality for the jetpack item.
+
+**Thoughts**  Almost all the buildable things have been locked down.  I think I might have a roadmap for everything I want to be a feature of this game.
