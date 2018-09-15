@@ -961,3 +961,18 @@
 **Today's Progress**: Added beginnings of two items, and full functionality for the jetpack item.
 
 **Thoughts**  Almost all the buildable things have been locked down.  I think I might have a roadmap for everything I want to be a feature of this game.
+
+**Link(s) to work**
+-    [Three Body - Github](https://github.com/Nidoprince/threeBody)
+-    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
+
+
+### Day 89: September 14, Friday
+
+**Today's Progress**: Got the recoil and animation work for the gravity gun done.
+
+**Thoughts**  Did less than I might have due to having stayed up all night and feeling tired.  Still kinda fun stuff.
+
+**Link(s) to work**
+-    [Three Body - Github](https://github.com/Nidoprince/threeBody)
+-    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
