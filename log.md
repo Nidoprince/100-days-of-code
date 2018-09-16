@@ -976,3 +976,15 @@
 **Link(s) to work**
 -    [Three Body - Github](https://github.com/Nidoprince/threeBody)
 -    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
+
+
+### Day 90: September 15, Saturday
+
+**Today's Progress**: Got the functionality of the gravity cannon finished, and added the ability for disintegration blasts to deconstuct ships.
+
+**Thoughts**  Not too painful.  Kinda fun to have some legit player interaction stuff.  Almost getting close to a game.
+
+**Link(s) to work**
+-    [Three Body - Github](https://github.com/Nidoprince/threeBody)
+-    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
+
