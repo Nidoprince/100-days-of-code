@@ -988,3 +988,13 @@
 -    [Three Body - Github](https://github.com/Nidoprince/threeBody)
 -    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
 
+
+### Day 91: September 16, Sunday
+
+**Today's Progress**: Got the upper corner camera for cannon use.  Made cannon work against parked ships.  Added cold fusion.
+
+**Thoughts**  Almost no bugs today.  Really tired, so that often helps with minimising mistakes because I do everything really methodically.
+
+**Link(s) to work**
+-    [Three Body - Github](https://github.com/Nidoprince/threeBody)
+-    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
