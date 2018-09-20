@@ -1009,3 +1009,14 @@
 **Link(s) to work**
 -    [Three Body - Github](https://github.com/Nidoprince/threeBody)
 -    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
+
+
+### Day 93: September 19, Wednesday
+
+**Today's Progress**: Got the autocannon functioning.
+
+**Thoughts**  Sooooooo much testing of this one to get it to work.
+
+**Link(s) to work**
+-    [Three Body - Github](https://github.com/Nidoprince/threeBody)
+-    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
