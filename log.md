@@ -1020,3 +1020,14 @@
 **Link(s) to work**
 -    [Three Body - Github](https://github.com/Nidoprince/threeBody)
 -    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
+
+
+### Day 94: September 20, Thursday
+
+**Today's Progress**: Got dragon radar working, and got the scoring system working.
+
+**Thoughts**  And, zero bugs today.  Everything worked on the first try.
+
+**Link(s) to work**
+-    [Three Body - Github](https://github.com/Nidoprince/threeBody)
+-    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
