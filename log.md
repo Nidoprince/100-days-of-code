@@ -1031,3 +1031,14 @@
 **Link(s) to work**
 -    [Three Body - Github](https://github.com/Nidoprince/threeBody)
 -    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
+
+
+### Day 95: September 21, Friday
+
+**Today's Progress**: Made wormholes get smaller over time instead of just vanishing.  Made boids attracted to dragonballs.  Allowed the creation of boids.
+
+**Thoughts**  Any time I get a chance to work with boids, it makes me happy.  I just love how they move.
+
+**Link(s) to work**
+-    [Three Body - Github](https://github.com/Nidoprince/threeBody)
+-    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
