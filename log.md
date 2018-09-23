@@ -1042,3 +1042,15 @@
 **Link(s) to work**
 -    [Three Body - Github](https://github.com/Nidoprince/threeBody)
 -    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
+
+
+
+### Day 96: September 22, Saturday
+
+**Today's Progress**: Allowed the creation of wormholes, then fixed a bunch of bugs that had crept in since I made wormholes before.
+
+**Thoughts**  This was a pretty fun feature.  Did some wacky things kinda reminiscent of old gameboy games that let one control the way the wormhole generates.
+
+**Link(s) to work**
+-    [Three Body - Github](https://github.com/Nidoprince/threeBody)
+-    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
