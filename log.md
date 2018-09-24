@@ -1044,12 +1044,22 @@
 -    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
 
 
-
 ### Day 96: September 22, Saturday
 
 **Today's Progress**: Allowed the creation of wormholes, then fixed a bunch of bugs that had crept in since I made wormholes before.
 
 **Thoughts**  This was a pretty fun feature.  Did some wacky things kinda reminiscent of old gameboy games that let one control the way the wormhole generates.
+
+**Link(s) to work**
+-    [Three Body - Github](https://github.com/Nidoprince/threeBody)
+-    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
+
+
+### Day 97: September 23, Sunday
+
+**Today's Progress**: Made it possible for the game to end, a wish to be granted, and the game to reset.
+
+**Thoughts**  Had to rework a lot of stuff from the very beginning of the game creation in order to make things reset correctly, and not leave artifacts of the previous game around.
 
 **Link(s) to work**
 -    [Three Body - Github](https://github.com/Nidoprince/threeBody)
