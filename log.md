@@ -1075,3 +1075,14 @@
 **Link(s) to work**
 -    [Three Body - Github](https://github.com/Nidoprince/threeBody)
 -    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
+
+
+### Day 99: September 25, Tuesday
+
+**Today's Progress**: Shenron's body, and the dragonballs animated.  Also a thundercrash when he is summoned.  
+
+**Thoughts**  More parametric equations, but I had a lot better handle on them this time.
+
+**Link(s) to work**
+-    [Three Body - Github](https://github.com/Nidoprince/threeBody)
+-    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
