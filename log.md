@@ -1086,3 +1086,14 @@
 **Link(s) to work**
 -    [Three Body - Github](https://github.com/Nidoprince/threeBody)
 -    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
+
+
+### Day 100: September 26, Wednesday
+
+**Today's Progress**: Finished Shenron's animation.  Still have a couple features I want to implement so I am going to keep going for a couple more days.
+
+**Thoughts**  Lots of fiddly bits, but it all worked out pretty well.  It was really fun.
+
+**Link(s) to work**
+-    [Three Body - Github](https://github.com/Nidoprince/threeBody)
+-    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
