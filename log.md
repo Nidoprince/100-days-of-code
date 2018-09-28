@@ -1097,3 +1097,14 @@
 **Link(s) to work**
 -    [Three Body - Github](https://github.com/Nidoprince/threeBody)
 -    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
+
+
+### Day 101: September 27, Thursday
+
+**Today's Progress**: Made a bunch of small changes.  Added fuel asteroids.  Fixed bugs.
+
+**Thoughts**  Actually played the game with someone, which was really great and exposed a lot of things to improve about the game.
+
+**Link(s) to work**
+-    [Three Body - Github](https://github.com/Nidoprince/threeBody)
+-    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
