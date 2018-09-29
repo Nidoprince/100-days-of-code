@@ -1108,3 +1108,14 @@
 **Link(s) to work**
 -    [Three Body - Github](https://github.com/Nidoprince/threeBody)
 -    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
+
+
+### Day 102: September 28, Friday
+
+**Today's Progress**: More small changes.  Added a help menu.  Going to keep working on the game, but done with the challenge.
+
+**Thoughts**  Talking about game design is fun.
+
+**Link(s) to work**
+-    [Three Body - Github](https://github.com/Nidoprince/threeBody)
+-    [Three Body - Play](https://nameless-brook-81991.herokuapp.com/)
